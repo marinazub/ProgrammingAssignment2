@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 
 ## we made a function which creates and solves matrixes  through caching the results,
 ## so it needs less time to do this operation.
